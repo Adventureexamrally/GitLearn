@@ -9,6 +9,9 @@ function App() {
   return (
     <>
       <h1>GitLearn</h1>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus doloremque accusamus sequi mollitia itaque aut neque minima, illum velit quia molestiae voluptate commodi a dignissimos cum facere architecto voluptates hic?
+      </p>
     </>
   )
 }
